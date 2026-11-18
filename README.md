@@ -90,6 +90,18 @@ Each bounty states its own scoring. In general:
 - **Clarity third.** If a judge cannot understand your claim in one reading, they cannot score it highly. One claim per entry, one number, one date.
 - **Payout.** Prizes are paid in USDC on Solana for this bounty. Winners are announced after the results date (6 December 2026 for bring-the-humans-02). Make sure the wallet and contact details on your account are correct before results day.
 
+## How to track your forecast while it runs
+
+A forecast you never check is a guess you forgot. Check it on a fixed rhythm — once a day at the same time — and write down what you see. A simple tracking table keeps you honest:
+
+| Date | Count / value observed | Source checked | Notes |
+| --- | --- | --- | --- |
+| Day 1 (baseline) | 0 verified signups | Leaderboard | Starting point, screenshot saved |
+| Day 2 | … | Leaderboard | Any change? What drove it? |
+| Deadline day | Final count | Leaderboard | Result screenshot saved |
+
+Two rules for tracking: never edit an old row to make the past look better, and never skip a day because the number went the wrong way. The log is the proof that you watched the forecast honestly from start to finish. If two forecasters tie on verified signups, the earlier verified receipt wins the tie-break — so tracking early and submitting early both matter.
+
 ## Common mistakes (and how to avoid them)
 
 - **Vague claims.** "This will do well" cannot be scored. Use a number and a date.
